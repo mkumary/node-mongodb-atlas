@@ -95,25 +95,3 @@ db.mongoose
     })
 
   })
-
-
-
-
-
-
-
-
-
-
-
-
-  /*
-  Goalkeepers: minutes > 500 and now_cost < 70
-Midfielders who scored less than 10 goals but cost less than 70 or Midfielders who scored more than 10 goals and cost more than 80
-Forwards who scored more than 10 goals
-Satyavrat Bondre to Everyone (4:57 PM)
-Defenders who played more than 1800 minutes and now_cost < 60
-Top 3 players in each of the 4 categories but no two players from each category should be from the same team and the total cost of each category should be less than the following:
-Satyavrat Bondre to Everyone (4:59 PM)
-Defenders cost less than 160, midfielders cost less than 200, forwards cost less than 250, goalkeepers cost less than 150
-  */
